@@ -1,0 +1,19 @@
+
+
+h1 {
+  text-align: center;
+}
+.marco {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+canvas {
+  border: 1px solid grey;
+}
+.frame {
+  margin: 1rem;
+}
